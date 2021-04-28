@@ -1,2 +1,2 @@
-# MyWikiDocument
-My Documents In My Wiki
+# 简介
+本仓库用于备份个人博客中的内容。
